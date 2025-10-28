@@ -1,4 +1,4 @@
-package com.example;
+package com.example.RDDs;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;

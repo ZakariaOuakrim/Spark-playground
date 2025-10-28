@@ -1,0 +1,21 @@
+id,titre,description,service,date
+1,Panne machine,Moteur de la ligne de production arrêté subitement,Production,2025-01-12
+2,Fuite hydraulique,Fuite détectée sur le circuit principal,Maintenance,2025-01-15
+3,Erreur système,Le logiciel de supervision ne répond plus,Informatique,2025-02-03
+4,Retard livraison,Pièces non reçues du fournisseur principal,Logistique,2025-02-07
+5,Accident mineur,Opérateur légèrement blessé à la main,Sécurité,2023-02-10
+6,Problème réseau,Coupure de connexion entre les serveurs,Informatique,2024-02-21
+7,Panne de capteur,Le capteur de température envoie de fausses valeurs,Production,2025-03-04
+8,Stock incorrect,Écart détecté entre stock réel et système,Logistique,2025-03-09
+9,Erreur comptable,Facture enregistrée deux fois,Comptabilité,2025-03-12
+10,Problème ventilation,Température trop élevée dans la salle de contrôle,Maintenance,2023-03-18
+11,Non-conformité produit,Lot de production rejeté au contrôle qualité,Qualité,2025-03-25
+12,Incident électrique,Court-circuit dans le tableau principal,Maintenance,2024-04-02
+13,Panne serveur,Le serveur principal de données est inactif,Informatique,2025-04-08
+14,Fuite d’eau,Canalisation endommagée dans l’atelier principal,Maintenance,2025-04-13
+15,Erreur de planning,Deux équipes assignées au même poste,RH,2025-04-20
+16,Retard de paie,Problème dans le calcul des salaires,RH,2025-04-28
+17,Erreur étiquetage,Mauvaise référence imprimée sur les cartons,Production,2025-05-04
+18,Problème qualité,Produit final ne respecte pas les spécifications,Qualité,2024-05-09
+19,Panne d’éclairage,Lumière défectueuse dans l’atelier principal,Maintenance,2025-05-13
+20,Fuite de données,Suspicion de piratage du système interne,Informatique,2025-05-18

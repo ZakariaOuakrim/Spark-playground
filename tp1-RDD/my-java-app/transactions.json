@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "client": "Fatima",
+        "ville": "Marrakech",
+        "montant": 233.18,
+        "date": "2025-04-16"
+    },
+    {
+        "id": 2,
+        "client": "Zakaria",
+        "ville": "Marrakech",
+        "montant": 7962.63,
+        "date": "2024-12-29"
+    },
+    {
+        "id": 3,
+        "client": "Zakaria",
+        "ville": "Tanger",
+        "montant": 4256.85,
+        "date": "2025-05-24"
+    },
+    {
+        "id": 4,
+        "client": "Mouna",
+        "ville": "Mohammedia",
+        "montant": 4433.65,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 5,
+        "client": "Khalid",
+        "ville": "Agadir",
+        "montant": 9469.15,
+        "date": "2025-06-16"
+    },
+    {
+        "id": 6,
+        "client": "Zakaria",
+        "ville": "Rabat",
+        "montant": 1914.98,
+        "date": "2025-08-02"
+    },
+    {
+        "id": 7,
+        "client": "Fatima",
+        "ville": "Tanger",
+        "montant": 9855.77,
+        "date": "2024-12-02"
+    },
+    {
+        "id": 8,
+        "client": "Khalid",
+        "ville": "Tanger",
+        "montant": 566.85,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 9,
+        "client": "Mouna",
+        "ville": "Tanger",
+        "montant": 552.83,
+        "date": "2025-07-08"
+    },
+    {
+        "id": 10,
+        "client": "Omar",
+        "ville": "Meknès",
+        "montant": 125.33,
+        "date": "2025-07-25"
+    },
+    {
+        "id": 11,
+        "client": "Lina",
+        "ville": "Fès",
+        "montant": 850.44,
+        "date": "2024-11-27"
+    },
+    {
+        "id": 12,
+        "client": "Imane",
+        "ville": "Meknès",
+        "montant": 4116.09,
+        "date": "2025-09-30"
+    },
+    {
+        "id": 13,
+        "client": "Imane",
+        "ville": "Casablanca",
+        "montant": 3336.08,
+        "date": "2025-04-25"
+    },
+    {
+        "id": 14,
+        "client": "Sara",
+        "ville": "Kenitra",
+        "montant": 2618.55,
+        "date": "2025-08-09"
+    },
+    {
+        "id": 15,
+        "client": "Youssef",
+        "ville": "Meknès",
+        "montant": 3411.81,
+        "date": "2025-04-25"
+    }
+]

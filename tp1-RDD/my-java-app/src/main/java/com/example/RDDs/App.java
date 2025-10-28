@@ -1,11 +1,10 @@
-package com.example;
+package com.example.RDDs;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.storage.StorageLevel;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.List;
 
